@@ -1,6 +1,6 @@
 test:
   override:
-    - echoo "Do it Live"
+    - echo "Do it Live"
 
 deployment:
   staging:
